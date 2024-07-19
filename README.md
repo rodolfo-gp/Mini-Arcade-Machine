@@ -14,3 +14,4 @@ Our mini portable arcade machine was designed and created using an Arduino, a sc
 
 ## Demo
 Watch the demo on [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+[![Mini-Arcade-Machine Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
